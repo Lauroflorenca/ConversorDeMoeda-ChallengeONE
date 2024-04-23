@@ -1,0 +1,30 @@
+
+**********************************************************************
+
+Conversão: BRL => USD
+
+
+Taxa de conversão: USD 0,1920
+Valor Informado: BRL 500,00
+Valor Convertido: USD 96,00
+
+Última atualização do valor de conversão: 22/04/2024 21:00:01
+Data conversão: 23/04/2024 02:50:50
+
+**********************************************************************
+
+
+**********************************************************************
+
+Conversão: BRL => USD
+
+
+Taxa de conversão: USD 0,1920
+Valor Informado: BRL 600,00
+Valor Convertido: USD 115,20
+
+Última atualização do valor de conversão: 22/04/2024 21:00:01
+Data conversão: 23/04/2024 02:52:17
+
+**********************************************************************
+
